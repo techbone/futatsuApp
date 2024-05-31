@@ -1,1 +1,1 @@
-nice react natiive on expo app app.
+nice react natiive on expo app.
