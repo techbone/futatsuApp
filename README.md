@@ -1,1 +1,1 @@
-nice react natiive on expo app.
+nice react natiive on expo & typescript.
