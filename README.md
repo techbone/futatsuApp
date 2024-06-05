@@ -1,1 +1,1 @@
-nice react natiive on expo & typescript.
+A clean react natiive app on expo & typescript.
