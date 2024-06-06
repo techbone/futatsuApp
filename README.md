@@ -1,1 +1,1 @@
-A clean react natiive app on expo & typescript.
+A clean react natiive app on expo CLI & typescript.
